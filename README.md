@@ -8,14 +8,15 @@ Cross-domain few-shot learning enables the transfer of knowledge from the source
 
 ## Citation
 ```
-@ARTICLE{11739622,
+@ARTICLE{Xi_TIP2026_ReProM,
   author={Xi, Bobo and Zhang, Yun and Li, Jiaojiao and Li, Yunsong and Li, Zan and Chanussot, Jocelyn},
   journal={IEEE Transactions on Image Processing}, 
   title={Recurrent Prompting With MambaFormer for Domain Generalized Few-Shot Hyperspectral Image Classification}, 
   year={2026},
-  volume={},
+  volume={35},
   number={},
-  pages={1-1},
+  pages={11002-11015},
+  keywords={Modeling;Training;Transformers;Timing;Hyperspectral imaging;Image classification;Few shot learning;Educational institutions;Architecture;Computer architecture;Few-shot learning;domain generalized;catastrophic forgetting;Mamba},
   doi={10.1109/TIP.2026.3742663}}
 ```
 
